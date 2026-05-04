@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/data/db.ts","./src/components/guitar.tsx","./src/components/headre.tsx","./src/reducers/cart-reducer.ts","./src/types/index.ts"],"version":"5.9.3"}
